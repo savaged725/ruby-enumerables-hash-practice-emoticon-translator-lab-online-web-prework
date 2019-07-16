@@ -5,7 +5,8 @@ def load_library
 end
 
 def get_japanese_emoticon
-  puts 
+  puts angel
+  
   end
 
   
